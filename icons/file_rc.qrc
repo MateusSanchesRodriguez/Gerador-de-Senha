@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="icon_brasil">
+    <file>icon_brasil.png</file>
+  </qresource>
+  <qresource prefix="icon_janela">
+    <file>icon_janela.png</file>
+  </qresource>
+  <qresource prefix="icon_git">
+    <file>icon_github.png</file>
+  </qresource>
+  <qresource prefix="logo_senha">
+    <file>logo_senha.png</file>
+  </qresource>
+  <qresource prefix="icon_eua">
+    <file>icon_eua.png</file>
+  </qresource>
+</RCC>
